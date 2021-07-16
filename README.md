@@ -1,2 +1,2 @@
-# Project-Java-2021
- Technology learning and tracking application
+# technology-learning-and-tracking-application
+ Capgemini Case Study
